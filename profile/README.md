@@ -7,7 +7,10 @@
 #### We create all kinds of things, with a focus on tools that make streaming easier.
 
 ## Contact us
-![x](https://img.shields.io/badge/@twilight--cng-000000?style=flat&logo=x&logoColor=white)![Website](https://img.shields.io/badge/Homepage-4285F4?style=flat&logo=googlechrome&logoColor=white)![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
+
+![x](https://img.shields.io/badge/@twilight--cng-000000?style=flat&logo=x&logoColor=white)![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 
+## Our site
+![Website](https://img.shields.io/badge/Homepage-4285F4?style=flat&logo=googlechrome&logoColor=white)![FANBOX](https://img.shields.io/badge/FANBOX-0096FA?style=flat&logo=pixiv&logoColor=white)
 
 ---
 
@@ -35,4 +38,4 @@ Currently in preparation
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0%3AFCCCFF%2C30%3AE4B4FE%2C100%3AC2F0FF&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3AFCCCFF%2C30%3AE4B4FE%2C100%3AC2F0FF&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
