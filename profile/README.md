@@ -1,4 +1,4 @@
-![ヘッダー画像](images/header.png)
+ ![ヘッダー画像](images/header.png)
 
 # twilight-cng
 
@@ -8,9 +8,11 @@
 
 ## Contact us
 
-![x](https://img.shields.io/badge/@twilight--cng-000000?style=flat&logo=x&logoColor=white)![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 
+[![x](https://img.shields.io/badge/@twilight--cng-000000?style=flat&logo=x&logoColor=white)](https://x.com/twilight_cng) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@twilight-cng.com)
+
 ## Our site
-![Website](https://img.shields.io/badge/Homepage-4285F4?style=flat&logo=googlechrome&logoColor=white)[![FANBOX](https://img.shields.io/badge/FANBOX-0096FA?style=flat-square&logo=pixiv&logoColor=white)](https://twilight-cng.fanbox.cc/)
+
+![!Website](https://img.shields.io/badge/Homepage-4285F4?style=flat&logo=googlechrome&logoColor=white) ![FANBOX](https://img.shields.io/badge/FANBOX-0096FA?style=flat-square&logo=pixiv&logoColor=white)
 
 ---
 
