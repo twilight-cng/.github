@@ -6,11 +6,11 @@
 
 #### We create all kinds of things, with a focus on tools that make streaming easier.
 
-## Contact us
+## Contact Us
 
 [![x](https://img.shields.io/badge/@twilight--cng-000000?style=flat&logo=x&logoColor=white)](https://x.com/twilight_cng) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@twilight-cng.com)
 
-## Our site
+## Our Site
 
 ![!Website](https://img.shields.io/badge/Homepage-4285F4?style=flat&logo=googlechrome&logoColor=white) ![FANBOX](https://img.shields.io/badge/FANBOX-0096FA?style=flat-square&logo=pixiv&logoColor=white)
 
@@ -32,7 +32,7 @@ Currently in preparation
 
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,docker,bots)
 
-### Other service
+### Other Service
 
 ![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,aws,github,wvww)
 
